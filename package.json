@@ -1,0 +1,1 @@
+{"name":"udesign-project-studio","private":true,"version":"1.0.0","scripts":{"dev":"python3 -m http.server 4173","check":"python3 -m compileall -q ."}}
